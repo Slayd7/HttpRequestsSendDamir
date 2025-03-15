@@ -1,0 +1,1 @@
+C:\Users\венера\Desktop\7labmob\HttpRequestsSendingIbragimov\HttpRequestsSendingIbragimov\HttpRequestsSendingIbragimov.csproj;x64
